@@ -11,8 +11,8 @@ body {
 }
 
 body {
-    background: #a27bcc;
-    background: radial-gradient(ellipse at center, #a27bcc 0%, #6c5299 100%);
+    background: #7bb2cc;
+    background: radial-gradient(ellipse at center, #7bb2cc 0%, #3c5f8f 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a27bcc', endColorstr='#6c5299', GradientType=1);
 }
 
@@ -157,15 +157,15 @@ p {
 }
 
 h1 {
-    color: #6c5299;
+    color: #526499;
     font-size: 1em;
-    margin-top: 6.8em;
+    margin-top: 6.7em;
 }
 
 p {
     color: rgba(236, 231, 227, 0.6);
     font-size: 0.8em;
-    line-height: 2em;
+    line-height: 1em;
 }
 
 /* Candle blow-out animation */
